@@ -52,8 +52,3 @@ If you know any German already, you'll move faster. But every chapter explains i
 This course focuses on grammar. Pronunciation is a separate skill — best learned from audio. Pair this with a pronunciation resource, a native speaker, or any app that lets you hear the language.
 
 ---
-
-*"The only way to learn a new programming language is by writing programs in it."*
-*— Brian W. Kernighan*
-
-The same is true of German.
